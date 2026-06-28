@@ -217,6 +217,3 @@ GitHub: https://github.com/prash79
 
 ---
 
-# 📄 License
-
-This project is intended for educational purposes as part of a Kaggle capstone project. Please refer to the repository for licensing information.
